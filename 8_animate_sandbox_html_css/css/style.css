@@ -1,0 +1,11 @@
+#section-1 {
+  animation-duration: 2s;
+  animation-delay: 0.15s;
+  /*animation-iteration-count: ;*/
+}
+
+#section-2 {
+  animation-duration: 2s;
+  animation-delay: 0.35s;
+  /*vendor-animation-iteration-count: infinite;*/
+}
